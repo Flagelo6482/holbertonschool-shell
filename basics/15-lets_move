@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -r A /tmp/u
+mv [:upper] /tmp/u
