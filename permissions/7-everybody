@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -m a=x hello
+chomd ---x--x--x hello
