@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R u+x,g+x,o+x /permissions
+sudo chmod u+x,g+x,o+x /permissions -R
