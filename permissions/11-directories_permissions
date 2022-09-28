@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod/chown u+x,g+x,o+x /permissions/
+chmod/chown u+x,g+x,o+x /permissions
