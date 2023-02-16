@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | cut -c 40-
+ls -l | cut -c 9-
